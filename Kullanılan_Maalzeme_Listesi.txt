@@ -1,0 +1,16 @@
+- Arduino Uno
+- L293B motor sürücü
+- 2 adet 6V DC motor
+- 2 adet LDR (ışık sensörü)
+- 1 adet hc-sr04 (mesafe sensörü)
+- 17 adet 1.5 volt AA pil
+- 2 adet 9 V pil
+- 2 adet led
+- 1 adet Buzzer
+- 2 adet breadboard
+- 1 adet araç yatağı
+- 2 adet tekerlek
+- 1 adet sarhoş tekerlek
+- 2 adet 10k direnç
+- 2 adet 370 ohm direnç
+- 41 adet jumper kablo
